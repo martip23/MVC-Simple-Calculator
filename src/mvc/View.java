@@ -1,4 +1,4 @@
-package calculator;
+package mvc;
 /**
  * This interface must be implemented by all classes that wish to take the role
  * of the View within the MVC framework.

@@ -1,4 +1,4 @@
-package calculator;
+package mvc;
 
 /**
  * @author martip23

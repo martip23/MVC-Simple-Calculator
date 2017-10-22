@@ -1,4 +1,4 @@
-package calculator;
+package mvc;
 
 /**
  * The Controller interface is the interface which must be implemented by
